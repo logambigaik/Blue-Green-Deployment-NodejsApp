@@ -57,7 +57,8 @@ upgrade nodejs application with tag v2:
     kubectl apply -f service-green.yml
     
  Update ingress file by editing service name
-    ![image](https://user-images.githubusercontent.com/58024415/95006146-b9beb200-061e-11eb-9fbe-cfdeca61e59c.png)
+ 
+  ![image](https://user-images.githubusercontent.com/58024415/95006146-b9beb200-061e-11eb-9fbe-cfdeca61e59c.png)
 
 Run ingress again
 
